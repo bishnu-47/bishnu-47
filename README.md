@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/bishnu-das-8326201b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishnu-das" height="30" width="40" /></a>  
 <a href="https://stackoverflow.com/users/14318758/bishnu-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bishnu das" height="30" width="40" /></a>  
 <a href="https://instagram.com/wishnu_dk_47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wishnu_dk_47" height="30" width="40" /></a>  
-<a href="https://leetcode.com/bishnu-47" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="bishnu-47" height="30" width="40" /></a>  
+<a href="https://leetcode.com/bishnu-47" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="bishnu-47" height="30" width="40" /></a>  
 </p>  
   
 <h3 align="left">Languages and Tools:</h3>  

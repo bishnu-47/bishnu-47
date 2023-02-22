@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Bishnu</h1>  
 <h3 align="center">A passionate fullstack web developer from India</h3>  
   
-- 🌱 I’m currently learning **java, MERN Stack.**
-- 🥅 2022 Goals: Become a full stack web developer.
+- 🌱 I’m currently learning **java**
+- 🥅 2023 Goals: Learn new stuff.
 - 📫 How to reach me **das.2312bishnu@gmail.com**.
 - ⚡ Fun fact **I love to play Guitar**.
   
